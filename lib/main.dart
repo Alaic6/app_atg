@@ -72,7 +72,7 @@ class MyHomePage extends StatelessWidget {
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
         ),
         SizedBox(height: 10),
-        //TODO Ajouter une GridView et voila et
+        //TODO Ajouter une GridView et voila et encore du texte
         SizedBox(
           height: 300,
           child: GridView.count(
